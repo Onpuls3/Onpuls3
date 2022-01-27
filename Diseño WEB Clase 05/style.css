@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: 0px;
+}
+.selector1 {
+    background-color: blue;
+}
+#selector2 {
+    background-color: red;
+}
+h1, h2, h3 {
+    margin-top: 10px;
+    text-align: left;
+    background-color: yellow;
+}
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+.remove-bg {
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    align-items: center;
+    background-position: center;
+}
+body {
+    background-image: linear-gradient(90deg, red 50%, purple 50%);
+}

@@ -1,0 +1,40 @@
+body {
+    background-color: blueviolet;
+}
+h1 {
+    font-size: 65px;
+    color: chartreuse;
+    background-color: blueviolet;
+    text-align: center;
+}
+h2 {
+    font-size: 50px;
+    color: crimson;
+    background-color: blueviolet;
+    text-align: center;
+}
+.prueba {
+    font-size: 50px;
+    color: whitesmoke;
+    background-color: cyan;
+    text-align: center;
+    border-radius: 20px;
+}
+.color1 {
+    font-size: 25px;
+    background-color: blue;
+    border-radius: 5px;
+}
+.color2 {
+    font-size: 25px;
+    background-color: red;
+    border-radius: 5px;
+}
+.color3 {
+    font-size: 25px;
+    background-color: yellow;
+    border-radius: 5px;
+}
+ol {
+    font-size: 30px;
+}
